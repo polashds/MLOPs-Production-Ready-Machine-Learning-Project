@@ -97,10 +97,12 @@ export AWS_SECRET_ACCESS_KEY= xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 	2. AmazonEC2FullAccess
 
+	3. AmazonS3FullAccess
+
 	
 ## 3. Create ECR repo to store/save docker image
     - Save the URI: 
-	- Save the URI:  124355646837.dkr.ecr.us-east-1.amazonaws.com/visa
+	- Save the URI:  124355646837.dkr.ecr.us-east-1.amazonaws.com/visa-repo
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
